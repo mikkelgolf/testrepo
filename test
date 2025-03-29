@@ -1,1 +1,8 @@
 player_hcp = input("What is your handicap? ")
+if player_hcp >=4
+	start_level = 1
+	print(f"As your handicap is greater than 4, your starting level will be {start_level}!"
+else:
+	start_level = 20
+	print(f"As your handicap is less than 4, your starting level will be {start_level}!"
+
